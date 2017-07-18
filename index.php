@@ -15,3 +15,5 @@ include 'lib/security.php';
 include 'lib/app_specif_devel.php';
 
 print_r($features);
+
+
